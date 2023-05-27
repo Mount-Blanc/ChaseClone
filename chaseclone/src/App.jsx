@@ -78,6 +78,12 @@ function App() {
       <h2>Depositing checks is a snap</h2>
       <p>Chase QuickDeposit lets you easily deposit checks from virtually anywhere. Just open the Chase Mobile app, take a photo and access your money.</p>
     </div>
+    <div>
+      Resource center 
+      <h2>Expore the Business Resource Center</h2>
+      <p>Find articles, videos and more to help you start, manage or grow your business.</p>
+      <button>View resources</button>
+    </div>
     </>
   )
 }
