@@ -90,6 +90,9 @@ function App() {
       <p>Enjoy $100 when you open a chase Secure Banking account with qualifying activies.</p>
       <button>Open an account</button>
     </div>
+    <footer className='footer'>
+      <div>footer</div>
+    </footer>
     </>
   )
 }
