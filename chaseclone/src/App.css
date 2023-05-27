@@ -1,3 +1,8 @@
+
+body {
+  margin:0;
+}
+
 .header-nav-categories-links {
   list-style: none;
   display: flex;
