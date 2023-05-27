@@ -84,6 +84,12 @@ function App() {
       <p>Find articles, videos and more to help you start, manage or grow your business.</p>
       <button>View resources</button>
     </div>
+    <div>
+      customer 
+      <h2>New Chase Customers</h2>
+      <p>Enjoy $100 when you open a chase Secure Banking account with qualifying activies.</p>
+      <button>Open an account</button>
+    </div>
     </>
   )
 }
