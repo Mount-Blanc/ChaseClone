@@ -1,0 +1,7 @@
+.header-nav-categories-links {
+  list-style: none;
+  display: flex;
+}
+.header-nav-categories-links li a {
+  text-decoration: none;
+}
