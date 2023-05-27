@@ -6,6 +6,7 @@ function App() {
   return (
     <>
     <header>
+      <section className='header-nav-content-row'>
       <section>
         <ul className='header-nav-categories-links'>
           <li><a href=''>Personal</a></li>
@@ -21,7 +22,22 @@ function App() {
           <li><a href=''>Espanol</a></li>
         </ul>
       </section>
-      <secton>nav</secton>
+      </section>
+      <secton>
+        <section>
+          <nav>
+            <ul className='header-nav-categories-links'>
+              <li><a href=''>Checking & savings</a></li>
+              <li><a href=''>Credit cards</a></li>
+              <li><a href=''>Home loans</a></li>
+              <li><a href=''>Auto</a></li>
+              <li><a href=''>Investing y J.P. Morgan</a></li>
+              <li><a href=''>Education & goals</a></li>
+
+            </ul>
+          </nav>
+        </section>
+      </secton>
     </header>
     </>
   )

@@ -5,3 +5,7 @@
 .header-nav-categories-links li a {
   text-decoration: none;
 }
+.header-nav-content-row {
+  display: flex;
+  justify-content: space-between;
+}
