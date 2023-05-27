@@ -53,7 +53,17 @@ function App() {
       <div>
         <section>
           <h2>Choose what's right for you</h2>
-          <div>Carousel</div>
+          <div>
+            <ul  className='header-nav-categories-links'>
+              <li><a href=''>Business</a></li>
+              <li><a href=''>Credit cards</a></li>
+              <li><a href=''>Checking</a></li>
+              <li><a href=''>Savings</a></li>
+              <li><a href=''> Home loans</a></li>
+
+
+            </ul>
+          </div>
         </section>
       </div>
     </div>
