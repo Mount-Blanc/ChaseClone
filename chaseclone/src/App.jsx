@@ -49,6 +49,14 @@ function App() {
         </div>
       </div>
     </div>
+    <div>Carasoul wrapper
+      <div>
+        <section>
+          <h2>Choose what's right for you</h2>
+          <div>Carousel</div>
+        </section>
+      </div>
+    </div>
     </>
   )
 }
