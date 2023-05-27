@@ -11,3 +11,7 @@
   display: flex;
   justify-content: space-between;
 }
+.hero {
+  background-color: rgba(46, 46, 253, 0.909);
+  height:410px
+}

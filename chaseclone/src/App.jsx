@@ -39,6 +39,16 @@ function App() {
         </section>
       </secton>
     </header>
+    <div className='hero'>
+      <div>
+        <div>
+          <p>Enjoy $200</p>
+        </div>
+        <div>
+          <p>New Chase checking customers</p>
+        </div>
+      </div>
+    </div>
     </>
   )
 }
