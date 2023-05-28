@@ -68,6 +68,11 @@ function App() {
         </section>
       </div>
     </div>
+    <div className='secton-content'>
+      <h2>Security and control at your fingertips</h2>
+      <p>With the Chase Mobile app, you can manage your accounts anytime, anywhere. Lock your card, view recent transactions,set up payments and more</p>
+      <button>View resources</button>
+    </div>
     <div>
       <div>1</div>
       <div>2</div>
