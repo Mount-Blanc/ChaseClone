@@ -74,18 +74,19 @@ function App() {
       <div>3</div>
 
     </div>
-    <div>
+    <div className='secton-content'>
       Depositing 
       <h2>Depositing checks is a snap</h2>
-      <p>Chase QuickDeposit lets you easily deposit checks from virtually anywhere. Just open the Chase Mobile app, take a photo and access your money.</p>
+      <div className='section-text'>
+      <p>Chase QuickDeposit lets you easily deposit checks from virtually anywhere. Just open the Chase Mobile app, take a photo and access your money.</p></div>
     </div>
-    <div>
+    <div className='secton-content'>
       Resource center 
       <h2>Expore the Business Resource Center</h2>
       <p>Find articles, videos and more to help you start, manage or grow your business.</p>
       <button>View resources</button>
     </div>
-    <div>
+    <div  className='secton-content'>
       customer 
       <h2>New Chase Customers</h2>
       <p>Enjoy $100 when you open a chase Secure Banking account with qualifying activies.</p>
@@ -93,7 +94,9 @@ function App() {
     </div>
     </div>
     <footer className='footer'>
-      <div>footer</div>
+      <div>
+We're here to help you manage your money today and tomorrow
+</div>
     </footer>
     </>
   )
