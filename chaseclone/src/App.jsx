@@ -49,6 +49,7 @@ function App() {
         </div>
       </div>
     </div>
+    <div className='main-wrapper'>
     <div>Carasoul wrapper
       <div>
         <section>
@@ -89,6 +90,7 @@ function App() {
       <h2>New Chase Customers</h2>
       <p>Enjoy $100 when you open a chase Secure Banking account with qualifying activies.</p>
       <button>Open an account</button>
+    </div>
     </div>
     <footer className='footer'>
       <div>footer</div>
