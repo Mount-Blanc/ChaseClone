@@ -29,8 +29,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-inline:9rem;
-  max-width: 75em;
+  margin-inline:2rem;
 }
 .section-text {
   font-size: 1.125em;
@@ -39,4 +38,5 @@ body {
   margin: 2rem;
   border-top: 1px solid grey;
   border-bottom: 1 px solid grey;
+  width:100%;
 }
