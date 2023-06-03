@@ -1,4 +1,4 @@
-
+import sloth from './sloth.jpg'
 import './App.css'
 
 function App() {
@@ -69,6 +69,7 @@ function App() {
       </div>
     </div>
     <div className='secton-content'>
+      <img src={sloth}></img>
       <h2>Security and control at your fingertips</h2>
       <p>With the Chase Mobile app, you can manage your accounts anytime, anywhere. Lock your card, view recent transactions,set up payments and more</p>
       <button>View resources</button>
@@ -80,19 +81,22 @@ function App() {
 
     </div>
     <div className='secton-content'>
-      Depositing 
+      <img src={sloth}></img>
+
       <h2>Depositing checks is a snap</h2>
       <div className='section-text'>
       <p>Chase QuickDeposit lets you easily deposit checks from virtually anywhere. Just open the Chase Mobile app, take a photo and access your money.</p></div>
     </div>
     <div className='secton-content'>
-      Resource center 
+      <img src={sloth}></img>
+
       <h2>Expore the Business Resource Center</h2>
       <p>Find articles, videos and more to help you start, manage or grow your business.</p>
       <button>View resources</button>
     </div>
-    <div  className='secton-content'>
-      customer 
+    <div  className='secton-content'> 
+      <img src={sloth}></img>
+
       <h2>New Chase Customers</h2>
       <p>Enjoy $100 when you open a chase Secure Banking account with qualifying activies.</p>
       <button>Open an account</button>
