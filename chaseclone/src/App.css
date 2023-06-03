@@ -44,3 +44,6 @@ img {
   height:auto;
   width:440px;
 }
+.section-inner-content {
+  display: flex;
+}
