@@ -46,4 +46,6 @@ img {
 }
 .section-inner-content {
   display: flex;
+  padding:1.5rem;
+  padding-top:1.8rem;
 }
