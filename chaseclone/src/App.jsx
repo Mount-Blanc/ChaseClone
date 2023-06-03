@@ -74,12 +74,7 @@ function App() {
       <p>With the Chase Mobile app, you can manage your accounts anytime, anywhere. Lock your card, view recent transactions,set up payments and more</p>
       <button>View resources</button>
     </div>
-    <div>
-      <div>1</div>
-      <div>2</div>
-      <div>3</div>
-
-    </div>
+  
     <div className='secton-content'>
       <img src={sloth}></img>
 
