@@ -79,12 +79,17 @@ function App() {
   
     <div className='secton-content'>
       <div className='section-inner-content'>
-      <img src={sloth}></img>
       <div>
       <h2>Depositing checks is a snap</h2>
       <div className='section-text'>
-      <p>Chase QuickDeposit lets you easily deposit checks from virtually anywhere. Just open the Chase Mobile app, take a photo and access your money.</p></div></div>
-    </div>
+      <p>Chase QuickDeposit lets you easily deposit checks from virtually anywhere. Just open the Chase Mobile app, take a photo and access your money.</p></div>
+      <button>Deposit</button>  
+
+      </div>
+      <img src={sloth}></img>
+
+    </div>     
+
     </div>
     <div className='secton-content'>
       <div className='section-inner-content'>
@@ -96,11 +101,12 @@ function App() {
     </div></div>
     <div  className='secton-content'> 
     <div className='section-inner-content'>
-      <img src={sloth}></img>
     <div>
       <h2>New Chase Customers</h2>
       <p>Enjoy $100 when you open a chase Secure Banking account with qualifying activies.</p>
       <button>Open an account</button></div>
+      <img src={sloth}></img>
+
     </div></div>
     </div>
     <footer className='footer'>
